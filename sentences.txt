@@ -1,0 +1,3 @@
+ER-Analysen bei neurodegenerativen Erkrankungen
+Bereits von uns hergestellte Mausmodelle für neurodegenerative Erkrankungen sollen mit einer Reporter-Maus verpaart werden, Inder das ER mit einem fluoreszierenden Protein markiert ist. 
+Mit diesem Ansatz soll überprüft werden, ob den Erkrankungen Veränderungen der ER-Struktur zugrunde liegen.
